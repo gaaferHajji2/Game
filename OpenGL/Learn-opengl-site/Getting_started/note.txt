@@ -1,3 +1,5 @@
+The Testing Environment is: Ubuntu 16.04 LTS
+
 /**For Test Compiling
 g++ glad.c Hello_Window.c -lglfw -lGL -lrt -lm -lGL -lGLU -lX11 -lpthread -lXrandr -lXi -ldl -o Hello_Window.o
 
